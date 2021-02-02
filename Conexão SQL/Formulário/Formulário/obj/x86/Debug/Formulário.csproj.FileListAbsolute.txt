@@ -1,0 +1,8 @@
+C:\Users\NEMESIO\Documents\Arquivos\Estudo\ETECVAV\TCC\Trabalhos\3H\Formulário\Formulário\obj\x86\Debug\Formulário.csprojResolveAssemblyReference.cache
+C:\Users\NEMESIO\Documents\Arquivos\Estudo\ETECVAV\TCC\Trabalhos\3H\Formulário\Formulário\obj\x86\Debug\Formulário.Form1.resources
+C:\Users\NEMESIO\Documents\Arquivos\Estudo\ETECVAV\TCC\Trabalhos\3H\Formulário\Formulário\obj\x86\Debug\Formulário.Properties.Resources.resources
+C:\Users\NEMESIO\Documents\Arquivos\Estudo\ETECVAV\TCC\Trabalhos\3H\Formulário\Formulário\obj\x86\Debug\Formulário.csproj.GenerateResource.Cache
+C:\Users\NEMESIO\Documents\Visual Studio 2013\Projects\Visual\Conexão SQL\Formulário\Formulário\obj\x86\Debug\Formulário.csprojResolveAssemblyReference.cache
+C:\Users\NEMESIO\Documents\Visual Studio 2013\Projects\Visual\Conexão SQL\Formulário\Formulário\obj\x86\Debug\Formulário.Form1.resources
+C:\Users\NEMESIO\Documents\Visual Studio 2013\Projects\Visual\Conexão SQL\Formulário\Formulário\obj\x86\Debug\Formulário.Properties.Resources.resources
+C:\Users\NEMESIO\Documents\Visual Studio 2013\Projects\Visual\Conexão SQL\Formulário\Formulário\obj\x86\Debug\Formulário.csproj.GenerateResource.Cache
